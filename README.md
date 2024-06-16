@@ -2,7 +2,7 @@
 
 Il s'agit d'un processus de personnalisation de l'apparence de l'interface utilisateur de son environnement de bureau ou de son gestionnaire de fenêtres.
 
-##🎯 Objectifs
+## 🎯 Objectifs
 
 Construire une VM ergonomique et utile pour le pentest.
 
@@ -14,17 +14,17 @@ debian 12 - gnome&#x20;
 > - 👍 **Arch** : extrêmement personnalisable
 > - 👎 **Arch** : compliqué
 
-##📸 Avant&#x20;
+## 📸 Avant&#x20;
 
 ![Nom_de_l'image](chemin/vers/l'image)
 
 
-##📸 Après&#x20;
+## 📸 Après&#x20;
 
 ![Nom_de_l'image](chemin/vers/l'image)
 ***
 
-##🛠️ Outils de Pentest
+## 🛠️ Outils de Pentest
 
 ### [Exegol ](https://exegol.readthedocs.io/en/latest/getting-started/install.html#installation)
 
@@ -71,7 +71,7 @@ Utiliser Zsh avec Oh My Zsh et Kitty est bénéfique car Zsh offre une syntaxe a
 >
 > Petite mention pour **jnrowe** qui est pas mal aussi !
 
-### Kitty  :&#x20;
+### Kitty 🐱 :&#x20;
 
 Kitty est un terminal moderne avec gestion avancée des onglets et du tiling, améliorant ainsi l'efficacité et l'expérience utilisateur dans la gestion des tâches et du développement.
 
@@ -93,11 +93,11 @@ Vous pouvez configurer les marges en les terminal , les couleurs, les raccourcis
 
 > [**Guide de configuration kitty** ](https://linuxiac.com/kitty-terminal-emulator/)&#x20;
 
-###📂 Voir mon fichier de conf (kitty.conf)&#x20;
+### [📂 Voir mon fichier de conf](config/kitty.conf) (kitty.conf)&#x20;
 
 ***
 
-### Neofetch
+### Neofetch 🖥️
 
 Affiche des informations détaillées sur votre système d'exploitation, notamment le logo ou l'art ASCII de la distribution Linux, la version du noyau, du processeur, de la mémoire, de la résolution d'écran, du gestionnaire de fenêtres, etc.
 
@@ -107,13 +107,13 @@ Idée de thème:&#x20;
 
 Pour mettre une image et non un ascii ART, j'ai mofifié ces lignes :&#x20;
 
-<figure><img src="../.gitbook/assets/neofetch conf (1).png" alt=""><figcaption></figcaption></figure>
+![neofetch](Images/neofetch-img.png)
 
 A modifier dans :&#x20;
 
 `gedit ~/.config/neofetch/config.conf`
 
-###📂 Voici mon fichier de conf (neofetch.conf) :&#x20;
+### [📂 Voir mon fichier de conf](config/neofetch.conf) (neofetch.conf) :&#x20;
 
 
 
@@ -147,22 +147,24 @@ Le lancer a l'ouverture du terminal :&#x20;
 
 J'ai choisi celui-ci :&#x20;
 
-![Mon image](images/mon-image.png)
+![Fond ecran](Images/Fond-ecran.png)
 
 
 ## 🧱 Extensions&#x20;
 
+Choisir diffrentes thèmes et extensions : 
 - [GNOME Look](https://www.gnome-look.org)
 
 Télécharger le thème, l'extraire et le mettre dans `~/.local/share/icons/`. Aller dans Tweaks > Apparence et choisissez le thème.
 
+Quelques thèmes sympa ! 
 * [Thème Cyberpunk Technotronic](https://github.com/dreifacherspass/cyberpunk-technotronic-icon-theme/tree/main)
 * [Thème Reversal](https://github.com/yeyushengfan258/Reversal-icon-theme)
 * [Icônes Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 
 J'ai choisi ces extensions :&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+![extensions](Images/extension-img.png)
 
 * **Blur my shell** : Pour flouter l'arrière-plan des fenêtres et donner un effet de profondeur à l'interface.
 * **Burn my windows** : Pour ajouter un effet aux fenêtres lorsqu'elles sont fermées.
@@ -173,15 +175,14 @@ J'ai choisi ces extensions :&#x20;
 
 
 
-## En plus ...
+## 💡 Idée de ricing&#x20;
 
 - [UnixPorn Subreddit](https://www.reddit.com/r/unixporn/)
 - [Post spécifique sur UnixPorn](https://www.reddit.com/r/unixporn/comments/ca6ntg/kde_plasma_retrofuturism_an_outrunning_cyberpunk/)
 
-## Idée de ricing&#x20;
 
-{% embed url="https://www.reddit.com/r/unixporn/" %}
 
-{% embed url="https://www.reddit.com/r/unixporn/comments/ca6ntg/kde_plasma_retrofuturism_an_outrunning_cyberpunk/" %}
+- [UnixPorn Subreddit](https://www.reddit.com/r/unixporn/)
+- [Post spécifique sur UnixPorn](https://www.reddit.com/r/unixporn/comments/ca6ntg/kde_plasma_retrofuturism_an_outrunning_cyberpunk/)
 
 _Ce README a été créé avec ❤️ et 🍚 par amaz974_
