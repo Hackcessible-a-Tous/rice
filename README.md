@@ -21,7 +21,7 @@ debian 12 - gnome&#x20;
 
 ## 📸 Après&#x20;
 
-![Nom_de_l'image](chemin/vers/l'image)
+![Après](Image/rice.mp4)
 ***
 
 ## 🛠️ Outils de Pentest
@@ -93,7 +93,7 @@ Vous pouvez configurer les marges en les terminal , les couleurs, les raccourcis
 
 > [**Guide de configuration kitty** ](https://linuxiac.com/kitty-terminal-emulator/)&#x20;
 
-### [📂 Voir mon fichier de conf](config/kitty.conf) (kitty.conf)&#x20;
+### [📂 Voir mon fichier de conf](Configs/kitty.conf) (kitty.conf)&#x20;
 
 ***
 
@@ -113,7 +113,7 @@ A modifier dans :&#x20;
 
 `gedit ~/.config/neofetch/config.conf`
 
-### [📂 Voir mon fichier de conf](config/neofetch.conf) (neofetch.conf) :&#x20;
+### [📂 Voir mon fichier de conf](Configs/neofetch.conf) (neofetch.conf) :&#x20;
 
 
 
@@ -136,9 +136,7 @@ Le lancer a l'ouverture du terminal :&#x20;
 
 ## Fond d'ecran&#x20;
 
-### Site:&#x20;
-
-## Sites recommandés pour les fonds d'écran :
+### Sites recommandés pour les fonds d'écran :
 
 - [UHDPaper](https://www.uhdpaper.com/)
 - [Minimalistic Wallpaper](https://minimalistic-wallpaper.demolab.com/)
@@ -147,7 +145,7 @@ Le lancer a l'ouverture du terminal :&#x20;
 
 J'ai choisi celui-ci :&#x20;
 
-![Fond ecran](Images/Fond-ecran.png)
+![Fond ecran](Images/chambre.jpg)
 
 
 ## 🧱 Extensions&#x20;
