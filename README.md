@@ -22,7 +22,7 @@ debian 12 - gnome&#x20;
 ## 📸 Après&#x20;
 
 <p align="center">
-  <img src="Images/rice.gif" alt="Après" width="400">
+  <img src="Images/rice.gif" alt="Après" width="800">
 </p>
 
 
