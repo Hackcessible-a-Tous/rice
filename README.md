@@ -21,7 +21,7 @@ debian 12 - gnome&#x20;
 
 ## 📸 Après&#x20;
 
-![Après](Image/rice.mp4)
+![Après](Image/rice.gif)
 ***
 
 ## 🛠️ Outils de Pentest
@@ -136,7 +136,7 @@ Le lancer a l'ouverture du terminal :&#x20;
 
 ## Fond d'ecran&#x20;
 
-### Sites recommandés pour les fonds d'écran :
+### Je vous recommande ces sites pour des fonds d'écran 4k :
 
 - [UHDPaper](https://www.uhdpaper.com/)
 - [Minimalistic Wallpaper](https://minimalistic-wallpaper.demolab.com/)
@@ -174,11 +174,6 @@ J'ai choisi ces extensions :&#x20;
 
 
 ## 💡 Idée de ricing&#x20;
-
-- [UnixPorn Subreddit](https://www.reddit.com/r/unixporn/)
-- [Post spécifique sur UnixPorn](https://www.reddit.com/r/unixporn/comments/ca6ntg/kde_plasma_retrofuturism_an_outrunning_cyberpunk/)
-
-
 
 - [UnixPorn Subreddit](https://www.reddit.com/r/unixporn/)
 - [Post spécifique sur UnixPorn](https://www.reddit.com/r/unixporn/comments/ca6ntg/kde_plasma_retrofuturism_an_outrunning_cyberpunk/)
