@@ -21,7 +21,12 @@ debian 12 - gnome&#x20;
 
 ## 📸 Après&#x20;
 
-![Après](Image/rice.gif)
+<p align="center">
+  <img src="Images/rice.gif" alt="Après" width="400">
+</p>
+
+
+
 ***
 
 ## 🛠️ Outils de Pentest
